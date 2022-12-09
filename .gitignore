@@ -1,0 +1,6 @@
+.DS_Store
+kk.html
+package-lock.json
+tailwind-config.full.js
+node_modules/
+dist/.DS_Store

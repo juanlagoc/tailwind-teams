@@ -1,0 +1,17 @@
+{
+  "name": "tailwind-teams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./src/input.css -o ./dist/css/main.css",
+    "production": "tailwindcss -i ./src/input.css -o ./dist/css/main.css --minify",
+    "watch": "tailwindcss -i ./src/input.css -o ./dist/css/main.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}

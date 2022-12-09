@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 193.9 170.6">
+  <style>
+    .st0{fill:#fff}.st3{fill:#e2e2f6}.st5{fill:#bdbde6}.st14{fill:#9b643d}.st17{fill:#231f20}
+  </style>
+  <circle cx="117.7" cy="134.2" r="22.8" class="st0"/>
+  <circle cx="57.4" cy="113.2" r="57.4" style="fill:#e1dfdd"/>
+  <path d="M114.7 111.6v1.6c0 14-5.1 26.9-13.4 36.9-4-4.1-6.4-9.7-6.4-15.9 0-11.6 8.6-21.1 19.8-22.6z" style="fill:#f3f2f1"/>
+  <circle id="SVGID_1_" cx="155.6" cy="63" r="38.3" class="st3"/>
+  <circle cx="155.6" cy="63" r="38.3" style="fill:none"/>
+  <circle cx="155.6" cy="63" r="38.3" class="st3"/>
+  <path d="M155.6 101.3c9.5 0 18.1-3.5 24.8-9.2-1.4-12.5-12-22.2-24.8-22.2-12.9 0-23.4 9.7-24.8 22.2 6.6 5.7 15.3 9.2 24.8 9.2z" class="st5"/>
+  <circle cx="155.6" cy="52.4" r="14.1" class="st5"/>
+  <circle cx="113.8" cy="23.1" r="23.1" style="fill:#8b8cc7"/>
+  <path d="M124.9 20.1h-8.1V12c0-1.6-1.3-3-3-3-1.6 0-3 1.3-3 3v8.1h-8.1c-1.6 0-2.9 1.3-2.9 2.9 0 1.6 1.3 2.9 2.9 2.9h8.1v8.2c0 1.6 1.3 3 3 3 1.6 0 3-1.3 3-3v-8.2h8.1c1.6 0 2.9-1.3 2.9-2.9 0-1.6-1.3-2.9-2.9-2.9z" class="st0"/>
+  <radialGradient id="SVGID_2_" cx="48.6549" cy="288.129" r="32.6532" gradientTransform="translate(0 -228)" gradientUnits="userSpaceOnUse">
+    <stop offset="0" style="stop-color:#0c0a05"/>
+    <stop offset="1" style="stop-color:#33312d"/>
+  </radialGradient>
+  <path d="M49.5 34.4c5.3.9 8.9 5.9 8 11.3s-5.9 8.9-11.3 8S32.9 48.3 33.8 43c.9-5.3 10.4-9.5 15.7-8.6z" style="fill:url(#SVGID_2_)"/>
+  <radialGradient id="SVGID_3_" cx="45.5022" cy="287.1098" r="28.8421" gradientTransform="translate(0 -228)" gradientUnits="userSpaceOnUse">
+    <stop offset="0" style="stop-color:#0c0a05"/>
+    <stop offset="1" style="stop-color:#33312d"/>
+  </radialGradient>
+  <circle cx="34" cy="32.9" r="14.4" style="fill:url(#SVGID_3_)"/>
+  <radialGradient id="SVGID_4_" cx="47.2212" cy="287.1098" r="28.8421" gradientTransform="translate(0 -228)" gradientUnits="userSpaceOnUse">
+    <stop offset="0" style="stop-color:#0c0a05"/>
+    <stop offset="1" style="stop-color:#33312d"/>
+  </radialGradient>
+  <circle cx="25.8" cy="57.1" r="14.6" style="fill:url(#SVGID_4_)"/>
+  <radialGradient id="SVGID_5_" cx="45.9026" cy="287.1098" r="28.8421" gradientTransform="translate(0 -228)" gradientUnits="userSpaceOnUse">
+    <stop offset="0" style="stop-color:#0c0a05"/>
+    <stop offset="1" style="stop-color:#33312d"/>
+  </radialGradient>
+  <circle cx="17.4" cy="40.5" r="13.1" style="fill:url(#SVGID_5_)"/>
+  <path d="m60.4 90.4-1.8.2c-13.4 1.7-28.6-11-29.4-22.8-.8-11.7 8.8-21 20.6-23.9 15.4-3.7 31.8 5.5 30.5 28-.6 11.3-6.8 16.9-19.9 18.5z" style="fill:#33312d"/>
+  <path d="M57.4 170.6c17.4 0 32.9-7.7 43.5-19.9-14.8-25.7-33.1-34.9-33.1-34.9-4.7-3.3-9.8-5.1-15.4-5.4-5.9-.3-10.6 1.4-15.6 3.8h-.1c-.9.5-15.6 8.6-27.8 29.6 10.1 16.1 28 26.8 48.5 26.8z" style="fill:#ee8f94"/>
+  <radialGradient id="SVGID_6_" cx="1883.3899" cy="931.8068" r="18.5157" gradientTransform="matrix(1 0 -.1316 1.063 -1698.1656 -899.1664)" gradientUnits="userSpaceOnUse">
+    <stop offset="0" style="stop-color:#591c17"/>
+    <stop offset=".3376" style="stop-color:#743926"/>
+    <stop offset=".7621" style="stop-color:#905837"/>
+    <stop offset=".9994" style="stop-color:#9b643d"/>
+  </radialGradient>
+  <path d="M35.8 114.7s7.9 6.9 19.4 7.7c6.4 0 10.1-3.3 12.4-6.6-5.5-3.8-9-5.3-9.3-12.9-.2-6.2-.6-13-.6-13L42 87.6s2.4 10.3.8 17.1c-1.3 6.8-7 10-7 10z" style="fill:url(#SVGID_6_)"/>
+  <path d="M66 103.3c-10.5.9-23.5-6.9-25-19.1l2.1-4.6c.6-13.8 18.2-5.7 17.2-24.6 9.6-4 18.2 4.4 20 14.7 0 0 .7 9.3 1.1 12.4 1.3 10.8-8 20.6-15.4 21.2z" class="st14"/>
+  <path d="M59.2 91.3c.4 1 1.1 1.8 1.9 2.4.8.7 1.8 1.1 2.9 1.3 1.1.2 2.2.1 3.2-.3 1-.3 1.8-.9 2.5-1.7.3-.4.3-1-.1-1.4-.2-.2-.4-.2-.7-.2h-.1c-.9 0-1.6.2-2.3.2-.7.1-1.3 0-1.9-.1-.6-.1-1.2-.2-1.9-.5-.6-.2-1.3-.6-2-.9l-.2-.1c-.5-.2-1 0-1.2.5-.2.3-.2.6-.1.8z" style="fill:#7a412d"/>
+  <radialGradient id="SVGID_7_" cx="-633.0444" cy="270.0247" r="12.6736" gradientTransform="matrix(.9889 -.1482 .1409 .9404 653.2432 -265.5249)" gradientUnits="userSpaceOnUse">
+    <stop offset="0" style="stop-color:#591c17"/>
+    <stop offset=".9997" style="stop-color:#9b643d;stop-opacity:0"/>
+  </radialGradient>
+  <path d="m78.3 65.6 2.1 21.7-12.6 9.6-4.9-33z" style="fill:url(#SVGID_7_)"/>
+  <path d="M44 77.5c-4.1-1.5-8.3.1-9.5 3.2-1.2 3.1.7 7 4.4 8.2 1.7.5 4.6.4 4.6.4l.5-11.8zm17.7 4.3c.5 1.4 4.7 6.7 4.7 6.7s.1-2.1 2.1-2.8c2.1-.7 3.4-3.7 2.2-5.7-.9-1.4-2.3-1.7-3.6-2.4-1.6-.8-2.7-3.3-2.7-3.3s-4 3.8-2.7 7.5z" class="st14"/>
+  <ellipse cx="56.2" cy="76.8" class="st17" rx="1.7" ry="3.4" transform="rotate(-5.359 56.1813 76.7848) scale(.99997)"/>
+  <ellipse cx="72.8" cy="74.9" class="st17" rx="1.7" ry="3.4" transform="rotate(-5.359 72.80478 74.92566) scale(.99997)"/>
+</svg>

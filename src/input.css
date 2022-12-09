@@ -1,0 +1,15 @@
+:root {
+    --color-sky: 14 165 233;
+    --color-purple: 168 85 247;
+    --color-pink: 236 72 153;
+    --color-emerald: 20 184 166;
+    --color-orange: 249 115 22;
+
+    --color-brand-1: var(--color-sky);
+    --color-brand-2: var(--color-emerald);
+    --color-brand-3: var(--color-orange);
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
