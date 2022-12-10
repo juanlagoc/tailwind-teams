@@ -4,14 +4,27 @@
   --color-pink: 236 72 153;
   --color-emerald: 20 184 166;
   --color-orange: 249 115 22;
+  /* Teams */
+  --color-msteams-1: 68 71 145;
+  --color-msteams-2: 0 0 0;
+  --color-msteams-3: 91 95 199;
+  /* Teams */
+  /*     --color-brand-1: var(--color-msteams-1);
+    --color-brand-2: var(--color-msteams-2);
+    --color-brand-3: var(--color-msteams-3);
+ */
+  /* Theme Sky */
   --color-brand-1: var(--color-sky);
-  --color-brand-2: var(--color-emerald);
+  --color-brand-2: var(--color-msteams-2);
   --color-brand-3: var(--color-orange);
+  /* Theme Emerald */
+  /*     --color-brand-1: var(--color-emerald);
+    --color-brand-2: var(--color-msteams-2);
+    --color-brand-3: var(--color-pink);    
+ */
 }
 
-/*
-! tailwindcss v3.2.4 | MIT License | https://tailwindcss.com
-*/
+/* ! tailwindcss v3.2.4 | MIT License | https://tailwindcss.com */
 
 /*
 1. Prevent padding and border from affecting element width. (https://github.com/mozdevs/cssremedy/issues/4)
@@ -1108,21 +1121,6 @@ video {
 .text-pink-700 {
   --tw-text-opacity: 1;
   color: rgb(190 24 93 / var(--tw-text-opacity));
-}
-
-.text-gray-200 {
-  --tw-text-opacity: 1;
-  color: rgb(229 231 235 / var(--tw-text-opacity));
-}
-
-.placeholder-black::-moz-placeholder {
-  --tw-placeholder-opacity: 1;
-  color: rgb(0 0 0 / var(--tw-placeholder-opacity));
-}
-
-.placeholder-black::placeholder {
-  --tw-placeholder-opacity: 1;
-  color: rgb(0 0 0 / var(--tw-placeholder-opacity));
 }
 
 .placeholder-gray-600::-moz-placeholder {

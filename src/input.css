@@ -5,10 +5,26 @@
     --color-emerald: 20 184 166;
     --color-orange: 249 115 22;
 
+    /* Teams */
+    --color-msteams-1: 68 71 145;
+    --color-msteams-2: 0 0 0;
+    --color-msteams-3: 91 95 199;
+
+    /* Teams */
+/*     --color-brand-1: var(--color-msteams-1);
+    --color-brand-2: var(--color-msteams-2);
+    --color-brand-3: var(--color-msteams-3);
+ */
+    /* Theme Sky */
     --color-brand-1: var(--color-sky);
-    --color-brand-2: var(--color-emerald);
+    --color-brand-2: var(--color-msteams-2);
     --color-brand-3: var(--color-orange);
-}
+
+    /* Theme Emerald */
+/*     --color-brand-1: var(--color-emerald);
+    --color-brand-2: var(--color-msteams-2);
+    --color-brand-3: var(--color-pink);    
+ */}
 
 @tailwind base;
 @tailwind components;
