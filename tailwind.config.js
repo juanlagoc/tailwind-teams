@@ -7,9 +7,6 @@ module.exports = {
         '2xs': '0.75rem'
       },
       colors: {
-        'brand-1': 'rgb(var(--color-brand-1) / <alpha-value>)',
-        'brand-2': 'rgb(var(--color-brand-2) / <alpha-value>)',
-        'brand-3': 'rgb(var(--color-brand-3) / <alpha-value>)',
         mycolor: {
           DEFAULT: '#444791'
         },
